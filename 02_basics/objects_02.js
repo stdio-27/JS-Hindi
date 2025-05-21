@@ -44,6 +44,7 @@ const course = {
 
 // course.courseInstructor
 
+//it is oBject Destructuring used to acces objects easily
 const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
